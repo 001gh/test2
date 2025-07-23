@@ -1,0 +1,11 @@
+gitRepoUrl,fileName,filePath,needCompile,compilerType,openTP1Type
+https://github.com/001gh/test2,main.c,src/moduleA,TRUE,gcc,TP1A
+https://github.com/001gh/test2,util.c,src/moduleB,FALSE,clang,TP1B
+https://github.com/001gh/test2,driver.c,src/moduleA,TRUE,msvc,TP1C
+https://github.com/001gh/test2,core.c,src/moduleA,TRUE,clang,TP1A
+https://github.com/001gh/test2,math.c,src/moduleB,FALSE,gcc,TP1B
+https://github.com/001gh/test2,log.cob,src/moduleA,TRUE,cobol,TP1C
+https://github.com/001gh/test2,config.cob,src/moduleB,FALSE,cobol,TP1B
+https://github.com/001gh/test2,tool.pas,src/moduleB,FALSE,delphi,TP1A
+https://github.com/001gh/test2,net.c,src/moduleA,TRUE,gcc,TP1C
+https://github.com/001gh/test2,auth.cob,src/moduleA,TRUE,cobol,TP1B
